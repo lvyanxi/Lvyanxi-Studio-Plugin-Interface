@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <Nullable>enable</Nullable>
+        <LangVersion>8</LangVersion>
+        <AssemblyName>LSPluginInterface</AssemblyName>
+        <RootNamespace>LSPluginInterface</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="UnityEngine">
+        <HintPath>..\..\Plugin\Plugin\bin\Debug\netstandard2.1\UnityEngine.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

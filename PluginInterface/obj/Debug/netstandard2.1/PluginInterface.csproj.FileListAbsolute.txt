@@ -1,0 +1,13 @@
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\bin\Debug\netstandard2.1\LSPluginInterface.deps.json
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\bin\Debug\netstandard2.1\LSPluginInterface.dll
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\bin\Debug\netstandard2.1\LSPluginInterface.pdb
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\bin\Debug\netstandard2.1\UnityEngine.xml
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\obj\Debug\netstandard2.1\PluginInterface.csproj.AssemblyReference.cache
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\obj\Debug\netstandard2.1\PluginInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\obj\Debug\netstandard2.1\PluginInterface.AssemblyInfoInputs.cache
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\obj\Debug\netstandard2.1\PluginInterface.AssemblyInfo.cs
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\obj\Debug\netstandard2.1\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\obj\Debug\netstandard2.1\PluginIn.8B6E7775.Up2Date
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\obj\Debug\netstandard2.1\LSPluginInterface.dll
+C:\Users\LVYANXI\RiderProjects\PluginInterface\PluginInterface\obj\Debug\netstandard2.1\LSPluginInterface.pdb
